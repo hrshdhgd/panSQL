@@ -81,4 +81,3 @@ joins and aggregations are also supported
 ```
 
 More information and code samples available in the [examples](https://github.com/yhat/pandasql/blob/master/examples/demo.py)
- folder or on [our blog](http://blog.yhathq.com/posts/pandasql-sql-for-pandas-dataframes.html).  
